@@ -65,5 +65,29 @@ Both files contain sales, customer, product, and transaction details.
 
 ---
 
-## 📁 **Project Structure**
+
+---
+
+## 🔍 **What You Can Learn From This Project**
+- Cleaning and transforming raw data in Power Query  
+- Creating relationships between multiple tables  
+- Building KPI cards and advanced visualizations  
+- Using DAX for calculated fields  
+- Designing visually appealing dashboards  
+
+---
+
+## 🖼️ **Dashboard Preview**
+*(Add your dashboard screenshot here)*
+
+---
+
+## 🧑‍💻 **Author**
+**Vinay Khade**  
+Data Analyst | SQL | Power BI | .NET  
+
+---
+
+## ⭐ **If you like this project, don’t forget to star the repository!**
+
 
